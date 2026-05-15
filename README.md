@@ -1,28 +1,62 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div>
-  <img src="https://komarev.com/ghpvc/?username=sungheeyoon&style=flat-square&color=blue" alt=""/>
-</div>
-</div>
+# 성희윤 | Frontend Developer
 
-## :man_technologist: About Me :
+UI 구현에 그치지 않고,  
+데이터 흐름과 구조적 병목을 분석하며  
+trade-off를 비교해 개선하는 과정을 좋아합니다.
 
-플러터를 중심으로 한 앱 개발자로, 코드에 담긴 의도와 목적을 파악하고 높은 품질의 앱을 제작하는 것을 중요시 여기는 개발자입니다. 사용자 경험을 개선하기 위해 끊임없이 노력하며, 다양한 프로젝트를 통해 스스로를 발전시키고 있습니다.
+---
 
-</br>
+## Projects
 
-## :hammer_and_wrench: Languages and Tools :
-<div>
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-</div>
-</br>
+### Layer0 Studio
+노코드 웹사이트 빌더 SaaS MVP
 
-## :fire: My Stats :
+- Next.js 16 / Supabase / Tailwind v4
+- 낙관적 동시성 제어 기반 자동 저장 구조
+- 2-Phase Commit 기반 자산 업로드 정합성 처리
+- Clean Architecture 기반 구조 설계
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungheeyoon&show_icons=true&theme=00000000)
+→ https://layer0-studio.vercel.app/
+
+---
+
+### 동네속닥
+우리 동네 제보 커뮤니티 서비스
+
+- Next.js 16 / FastAPI / PostGIS
+- 거리 기반 공간 쿼리 최적화
+- RPC 기반 N+1 문제 개선
+- 지도 렌더링 구조 최적화
+
+→ https://dongne-sokdak.vercel.app/
+
+---
+
+## Tech
+
+### Frontend
+- React
+- Next.js
+- Flutter
+- TypeScript
+
+### Backend / Database
+- Supabase
+- PostgreSQL
+- PostGIS
+- FastAPI
+
+### Architecture / State
+- Riverpod
+- React Query
+- Zustand
+- MVVM
+- Clean Architecture
+
+---
+
+## Links
+
+- Portfolio: (노션 링크)
+- GitHub: https://github.com/sungheeyoon
+- Email: torushy@gmail.com
