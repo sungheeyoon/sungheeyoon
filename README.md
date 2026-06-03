@@ -13,7 +13,7 @@ trade-off를 비교해 개선하는 과정을 좋아합니다.
 
 - Next.js 16 / Supabase / Tailwind v4
 - 낙관적 동시성 제어 기반 자동 저장 구조
-- 2-Phase Commit 기반 자산 업로드 정합성 처리
+- Reserve-Confirm 패턴 기반 자산 업로드 정합성 처리
 - Clean Architecture 기반 구조 설계
 
 → https://layer0-studio.vercel.app/
@@ -57,6 +57,6 @@ trade-off를 비교해 개선하는 과정을 좋아합니다.
 
 ## Links
 
-- Portfolio: (노션 링크)
+- Portfolio: https://cautious-jester-d10.notion.site/Frontend-Engineer-b5df995d10d64f3f8ed40658f1aa5e93?source=copy_link
 - GitHub: https://github.com/sungheeyoon
 - Email: torushy@gmail.com
